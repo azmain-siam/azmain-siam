@@ -31,8 +31,8 @@
 </div> <br/>
 
 
-
-  <p align="center">
+<h3 align="left">Current Streak:</h3> <br/>
+<p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-siam&theme=react&hide_border=true" />
 </p>
 
