@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siam!</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<img src="https://i.ibb.co/yBcVtJb/github-header-image.png"/>
 
 - 🔭 I’m currently working on [Munchery](https://github.com/azmain-siam/Munchery_Client)
 
