@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmain-siam&show_icons=true&locale=en" alt="azmain-siam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-siam&" alt="azmain-siam" /></p>
+![azmain-siam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=azmain-siam&theme=dark&hide_border=true)
