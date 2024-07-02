@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Siam</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Siam!</h1>
+<h3 align="center">A passionate frontend developer.</h3>
+
+- 🔭 I’m currently working on [Munchery](https://github.com/azmain-siam/Munchery_Client)
 
 - 🌱 I’m currently learning **NextJS**
+
+- 👯 I’m looking to collaborate on **on web development projects using React**
+
+- 📫 How to reach me **https://www.linkedin.com/in/azmain-siam/**
+
+- ⚡ Fun fact **I'm a huge fan of dark mode and love implementing it in my projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azmain-siam&show_icons=true&locale=en" alt="azmain-siam" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=azmain_siam&theme=dark" alt="azmain-siam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-siam&" alt="azmain-siam" /></p>
