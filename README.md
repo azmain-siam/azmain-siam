@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/yBcVtJb/github-header-image.png"/>
+<img width='100%' src="https://i.ibb.co/yBcVtJb/github-header-image.png"/>
 
 - 🔭 I’m currently working on [Munchery](https://github.com/azmain-siam/Munchery_Client)
 
