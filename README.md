@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on [PayPulse](https://github.com/azmain-siam/PayPulse-Client)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **on web development projects using React**
+- 👯 I’m looking to collaborate on **on web development projects using React or Next.js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/azmain-siam/**
 
