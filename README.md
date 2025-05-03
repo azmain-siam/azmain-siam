@@ -1,5 +1,13 @@
+<h1 align="center">Hi 👋, I'm Siam Hossain</h1>
+<h3 align="center">Fullstack Web Developer | MERN Stack | TypeScript Lover</h3>
+
 # 💫 About Me:
-🌱 I’m currently learning **Advanced React, TypeScript, and Backend Development**<br>👨‍💻 I build fullstack web applications using the MERN stack with modern tools.<br>🛠️ Currently improving in TypeScript, System Design, and Scalable APIs.<br>📚 I enjoy writing clean, reusable code and building products that solve real problems.<br>🧠 Focused on performance, security, and best practices.<br>🌐 All of my projects are available at [https://portfolio-new-sable-alpha.vercel.app](https://portfolio-new-sable-alpha.vercel.app)<br>📫 How to reach me: **siam.hossain.dev@gmail.com**
+- 👨‍💻 I build fullstack web applications using the **MERN stack** with modern tools.
+- 🛠️ Currently improving in **TypeScript**, **System Design**, and **Scalable APIs**.
+- 📚 I enjoy writing clean, reusable code and building products that solve real problems.
+- 🧠 Focused on performance, security, and best practices.
+- 🌐 All of my projects are available at [https://portfolio-new-sable-alpha.vercel.app](https://portfolio-new-sable-alpha.vercel.app)
+- 📫 How to reach me: **siam.hossain.dev@gmail.com**
 
 
 ## 🌐 Socials:
@@ -12,10 +20,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=azmain-siam&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmain-siam&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### 🧩 Fun Fact
+
+> I believe great software is built through clean code, good design, and thoughtful user experience.
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=azmain-siam&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
