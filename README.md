@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I build fullstack web applications using the MERN stack with modern tools.<br>🛠️ Currently improving in TypeScript, System Design, and Scalable APIs.<br>📚 I enjoy writing clean, reusable code and building products that solve real problems.<br>🧠 Focused on performance, security, and best practices.<br>🌐 Portfolio: <br>📫 Email: 
+🌱 I’m currently learning **Advanced React, TypeScript, and Backend Development**<br>👨‍💻 I build fullstack web applications using the MERN stack with modern tools.<br>🛠️ Currently improving in TypeScript, System Design, and Scalable APIs.<br>📚 I enjoy writing clean, reusable code and building products that solve real problems.<br>🧠 Focused on performance, security, and best practices.<br>🌐 All of my projects are available at [https://portfolio-new-sable-alpha.vercel.app](https://portfolio-new-sable-alpha.vercel.app)<br>📫 How to reach me: **siam.hossain.dev@gmail.com**
 
 
 ## 🌐 Socials:
