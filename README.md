@@ -1,38 +1,58 @@
-<img width='100%' src="https://i.ibb.co/yBcVtJb/github-header-image.png"/>
+<h1 align="center">Hi there 👋, I'm Siam Hossain</h1>
+<h3 align="center">Web Developer | MERN Stack Enthusiast</h3>
 
-- 🔭 I’m currently working on [PayPulse](https://github.com/azmain-siam/PayPulse-Client)
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 👯 I’m looking to collaborate on **on web development projects using React or Next.js**
-
-- 📫 How to reach me **https://www.linkedin.com/in/azmain-siam/**
-
-- ⚡ Fun fact **I'm a huge fan of dark mode and love implementing it in my projects!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/azmain-siam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azmain-siam" height="30" width="40" /></a>
-<a href="https://fb.com/azmain.inkiad.siam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azmain.inkiad.siam" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3> <br/>
-<div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
-</div> <br/>
-
-
-<h3 align="left">Current Streak:</h3> <br/>
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-siam&theme=react&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=siamhossain-dev&label=Profile%20views&color=0e75b6&style=flat" alt="siamhossain-dev" />
 </p>
+
+---
+
+### 💻 About Me
+
+- 🌱 I’m currently learning **Advanced React, TypeScript, and Backend Development**
+- 👨‍💻 All of my projects are available at [siam-portfolio.vercel.app](https://siam-portfolio.vercel.app)
+- 🧠 I love building intuitive UIs and solving real-world problems with code
+- 📫 How to reach me: **your-email@example.com**
+- 🧰 Tools I use: `React`, `Next.js`, `Tailwind CSS`, `Node.js`, `MongoDB`, `Firebase`, `Git/GitHub`
+
+---
+
+### 🚀 Tech Stack
+
+**Frontend:**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend & DB:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siamhossain-dev&show_icons=true&theme=react" alt="siam github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamhossain-dev&theme=react" alt="siam streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamhossain-dev&layout=compact&theme=react" alt="top languages" />
+</p>
+
+---
+
+### 🧩 Fun Fact
+
+> "I believe in building products that are clean, fast, and easy to use — with a pixel-perfect frontend and meaningful backend logic."
+
+---
 
