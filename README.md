@@ -43,9 +43,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siamhossain-dev&show_icons=true&theme=react" alt="siam github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamhossain-dev&theme=react" alt="siam streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamhossain-dev&layout=compact&theme=react" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azmain-siam&show_icons=true&theme=react" alt="siam github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-siam&theme=react" alt="siam streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmain-siam&layout=compact&theme=react" alt="top languages" />
 </p>
 
 ---
