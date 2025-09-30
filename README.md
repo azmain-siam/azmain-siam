@@ -1,7 +1,7 @@
+![Image](Banner.png)
 <h1 align="center">Hi 👋, I'm Siam Hossain</h1>
 <h3 align="center">Fullstack Developer</h3>
 <!-- <img width='100%' src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/> -->
-![Image](Banner.png)
 
 # About Me:
 
